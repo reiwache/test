@@ -1,1 +1,1 @@
-console.log("ejele carlos y rei y luis")
+console.log("todos")
